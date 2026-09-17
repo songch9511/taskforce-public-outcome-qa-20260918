@@ -1,6 +1,6 @@
 # Orchard CLI
 
-Orchard CLI requires Node.js 18 or later.
+Orchard CLI requires Node.js 22 or later.
 
 ## Setup
 
